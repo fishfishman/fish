@@ -125,7 +125,7 @@
 								<div class="inner">
 									<h3>圖表</h3>
 									<p>一周間溫度圖表</p>
-									<a href="https://youtu.be/s6zR2T9vn2c" class="button style1 fit" data-poptrox="youtube,800x400">Watch</a>
+									<Input Type="Button" Value="watch" onclick="location.href='temp.php'" class="button fit" >		</a>
 								</div>
 							</div>
 
